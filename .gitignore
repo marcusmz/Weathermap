@@ -1,0 +1,6 @@
+.idea/*
+*.iml
+.DS_Store
+secret.txt
+node_modules
+js/keys.js
